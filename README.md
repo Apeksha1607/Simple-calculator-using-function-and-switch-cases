@@ -110,4 +110,3 @@ This project is created for **learning and educational purposes**.
 
 ---
 
-⭐ If you like this project, consider giving the repository a **star on GitHub**.
